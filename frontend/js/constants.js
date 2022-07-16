@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
 
 const welcome_h1 = "Welcome Pumpkins!!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'You canfollow uson twitter click<a href="https://twitter.com/JakksVillageNFT"  target="_blank" rel="noopener noreferrer">PUMPkin!</a> to continue.';
+const welcome_p = 'You can follow us on twitter click<a href="https://twitter.com/JakksVillageNFT"  target="_blank" rel="noopener noreferrer">PUMPkin!</a> to continue.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Whitelist Minting!!";
 const h1_public_mint = "Public Minting Open!!";
