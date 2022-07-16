@@ -5,7 +5,7 @@ const welcome_h1 = "Welcome Pumpkins!!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'This is just a test minting for Jakks Village NFT. Click this and follow us!<a href="https://twitter.com/JakksVillageNFT"  target="_blank" rel="noopener noreferrer">PUMPkin!</a> Twitter.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
-const h1_presale_mint = "Pre-Sale Minting Open!!";
+const h1_presale_mint = "Whitelist Minting!!";
 const h1_public_mint = "Public Minting Open!!";
 const h2_presale_coming_soon = "Pre-Sale Minting Countdown";
 const h2_presale_mint = "Public Minting Countdown";
