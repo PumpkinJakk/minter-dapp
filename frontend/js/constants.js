@@ -21,10 +21,8 @@ const button_presale_already_minted = "Join The Community";
 const button_public_mint = "Carve your PUMPKIN";
 const mint_failed = "Carving failed. 😢 Please try again.";
 
-const abi = [{
-    "response": "OK",
-    "abi": [
-      {
+const abi = [
+    {
         "inputs": [
           {
             "components": [
